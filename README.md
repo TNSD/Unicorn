@@ -8,7 +8,7 @@ Project folders are:
 
 Project branches are:
 - main
-- concepts (never commit to main)
+- concepts (never commit to master)
 - copay
 - help
 - home
